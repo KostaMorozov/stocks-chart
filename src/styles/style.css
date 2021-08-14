@@ -1,0 +1,29 @@
+.stock-name-header {
+  text-align: center;
+  font-weight: bold;
+  text-decoration: underline;
+  color: cadetblue;
+}
+
+.table-header-stock-name {
+  text-align: center;
+  color: brown !important;
+}
+
+.chart-line {
+  height: 65vh;
+  width: 90vw;
+}
+.show-table-button {
+  border-radius: 10px;
+  background-color: rgb(170, 253, 208);
+  border-color: rgb(161, 167, 248);
+  font-style: bold;
+  font-size: medium;
+  border-width: 1px;
+  color: rgb(10, 1, 138);
+}
+.stock-table {
+  height: 65vh;
+  width: 20vw;
+}
